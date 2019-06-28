@@ -1,0 +1,8 @@
+;;;;;;;; 1.- (OPCIONAL) Elegir Ssistema operativo no windows: En el caso de no usar windows, descomentar el SO utilizado
+
+;(SistemaOperativo Linux)
+;(SistemaOperativo MacOS)
+
+(simulado desde-las 10 00 00 segundosporciclo 1)
+
+(Tiempo)

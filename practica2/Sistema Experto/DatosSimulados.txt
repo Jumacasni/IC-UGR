@@ -1,0 +1,33 @@
+
+
+(datosensor 10 00 0 puerta entrada calle off)
+
+(datosensor 10 00 3 movimiento entrada on)
+
+(datosensor 10 01 3 movimiento entrada off)
+
+(datosensor 11 00 0 movimiento banio on)
+
+(datosensor 11 01 0 movimiento banio off)
+
+(datosensor 11 01 01 movimiento pasillo on)
+
+(datosensor 11 15 0 movimiento banio on)
+
+(datosensor 11 16 0 movimiento banio off)
+
+(datosensor 11 30 0 movimiento banio on)
+
+(datosensor 11 31 0 movimiento banio off)
+
+(datosensor 14 00 3 puerta entrada calle off)
+
+(datosensor 14 01 0 movimiento entrada off)
+
+(datosensor 14 05 0 movimiento salon on)
+
+(datosensor 14 06 0 movimiento salon off)
+
+;(datosensor 08 00 5 movimiento banio on)
+
+;(datosensor 08 01 5 movimiento banio off)
